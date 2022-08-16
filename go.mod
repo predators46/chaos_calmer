@@ -1,4 +1,4 @@
-module github.com/Dreamacro/clash
+module github.com/MetaCubeX/Clash.Meta
 
 go 1.18
 
